@@ -6,11 +6,15 @@ Instead of working on small demo components, I intentionally chose a **massive, 
 
 ---
 
+## 🔗 Live Project & Source Code
 
+You can explore the full project source here:  
+🔗 https://github.com/gsumithub/Law-prep-clone-bootstrap-jQuery.git
 
-Uploading LAW PREP BOOTSTRAP.mp4…
+Live deployed version (GitHub Pages):  
+🔗 https://gsumithub.github.io/Law-prep-clone-bootstrap-jQuery/
 
-
+---
 
 ## 🚀 Tech Stack Used
 - **HTML5**
