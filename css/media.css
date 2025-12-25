@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1200px) {
+    #scholarship img{
+    transform: translateX(0%);
+    transform: translateY(-30px);
+    width: 100%;
+    }
+    .topperCardCol {
+    width: 100%; /* 7 per row */
+    }
+    .air-tag {
+    font-size: 10px;
+    transform: translateX(-50%);
+    }
+    .owl-nav{
+    display: none;
+    }
+    .owl-dots{
+    display: block;
+    }
+}
