@@ -6,6 +6,10 @@ Instead of working on small demo components, I intentionally chose a **massive, 
 
 ---
 
+https://github.com/user-attachments/assets/90b35c7a-b44b-4a52-8cd5-a70e51b2173c
+
+
+
 ## 🔗 Live Project & Source Code
 
 You can explore the full project source here:  
